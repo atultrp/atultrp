@@ -29,7 +29,7 @@ Hi, I'm [Atul Tripathi](https://atultrp.github.io/Personal-site/), a passionate 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/oEtKl4PHVxhAs/giphy.gif"  />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/oEtKl4PHVxhAs/giphy.gif" width=380px height=428px />
   
   
 - 💼 any freelance work? do reach, [email](mailto:atul31815@gmail.com) :)
