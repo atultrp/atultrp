@@ -29,11 +29,11 @@ Hi, I'm [Atul Tripathi](https://atultrp.github.io/Personal-site/), a passionate 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/oEtKl4PHVxhAs/giphy.gif" width=380px height=428px />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width=380px height=428px />
   
   
 - 💼 any freelance work? do reach, [email](mailto:atul31815@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+- 💬 Ask me about anything related to JS, jQuery, Bootstrap...(After googling it 😜😌).
 
 <!-- Mid_Section -->
 
@@ -41,7 +41,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!-- - 👨🏽‍💻 I’m currently working working as a  -->
 - 🌱 I’m currently learning - Backend Development.
-- 💬 Ask me about anything related to JS, jQuery, Bootstrap...(After googling it 😜😌).
 - 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
 - 📫 How to reach me: atul31815@gmail.com
 <!-- - 📝 [Resume]() -->
