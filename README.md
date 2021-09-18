@@ -26,7 +26,7 @@
 </div>
 
 
-### I'm a passionate self-taught Front-end Developer 🚀 and a freelance software engineer from New Delhi, India 🇮🇳️. 
+### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge) from New Delhi, India 🇮🇳️. 
 
 - My passion for software lies with dreaming up ideas 🤓️ and making them come true with elegant interfaces 👨‍💻️. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -47,6 +47,7 @@
 - 🌱 I’m currently learning - Backend Development.
 - 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
 - 📫 How to reach me: <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+- 😎️ Take a look of my portfolio : <a href="https://atultrp.github.io/Personal-site/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=amp&logoColor=white"><a/>
 <!-- - 📝 [Resume]() -->
 
 ### 🛡️ Skills
