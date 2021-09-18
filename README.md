@@ -2,7 +2,6 @@
 **atultrp/atultrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-
 # ⚡️⚡️ Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.gg/uY9ADd8Rw5">
   <img align="left" alt="Atul's Discord" width="22px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />
@@ -100,6 +99,18 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+<div>
+<a>
+  <img align="center" hspace="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/atultrp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=atultrp&show_icons=true&theme=radical" />
+</a>
+</div>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact)](https://github.com/atultrp/github-readme-stats) -->
+
 
 <!--END_SECTION-->
 
