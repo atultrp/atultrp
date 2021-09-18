@@ -30,7 +30,7 @@
 - I am also an open-source enthusiast 👐️ and maintainer. I learned a lot from the open-source community and I love ❤️ how collaboration and knowledge sharing happened through open-source 📃️.
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width=380px height=428px />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width=380px />
   
   
 - 💼 Any freelance work? do reach, [Email to me](mailto:atul31815@gmail.com) :)
