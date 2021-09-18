@@ -102,7 +102,7 @@
 
 <div>
 <a>
-  <img align="center" hspace="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact&show_icons=true&theme=radical" />
+  <img align="center" hspace="5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atultrp&show_icons=true&theme=radical" />
