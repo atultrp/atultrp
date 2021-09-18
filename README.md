@@ -26,7 +26,7 @@
 </div>
 
 
-### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge) from New Delhi, India 🇮🇳️. 
+### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) from New Delhi, India 🇮🇳️. 
 
 - My passion for software lies with dreaming up ideas 🤓️ and making them come true with elegant interfaces 👨‍💻️. I take great care in the experience, architecture, and code quality of the things I build.
 
