@@ -6,8 +6,6 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/69186169/133885121-d0f57a9d-4d25-4ef9-8c97-e80ff7d19a24.jpg" width="100%">
 
-<!-- ![Atul Tripathi (1)](https://user-images.githubusercontent.com/69186169/133885121-d0f57a9d-4d25-4ef9-8c97-e80ff7d19a24.jpg) -->
-
 
 <div align="center">
 <a href="https://discord.gg/uY9ADd8Rw5">
@@ -28,7 +26,7 @@
 </div>
 
 
-### Hi, I'm ✨[Atul Tripathi](https://atultrp.github.io/Personal-site/)✨, a passionate self-taught Front-end Developer 🚀 and a freelance software engineer from New Delhi, India 🇮🇳️. 
+### I'm a passionate self-taught Front-end Developer 🚀 and a freelance software engineer from New Delhi, India 🇮🇳️. 
 
 - My passion for software lies with dreaming up ideas 🤓️ and making them come true with elegant interfaces 👨‍💻️. I take great care in the experience, architecture, and code quality of the things I build.
 
@@ -38,8 +36,8 @@
   <img align="right" alt="GIF" src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width=380px />
   
   
-- 💼 Any freelance work? do reach, [Email to me](mailto:atul31815@gmail.com) :)
-- 💬 Ask me about anything related to JS, jQuery, Bootstrap...(After googling it 😜😌).
+- 💼 Any freelance work? do reach, <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
+- 💬 Ask me about anything related to JS, Nodejs, React...(After googling it 😜😌).
 
 <!-- Mid_Section -->
 
@@ -48,7 +46,7 @@
 <!-- - 👨🏽‍💻 I’m currently working working as a  -->
 - 🌱 I’m currently learning - Backend Development.
 - 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
-- 📫 How to reach me: atul31815@gmail.com
+- 📫 How to reach me: <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 <!-- - 📝 [Resume]() -->
 
 ### 🛡️ Skills
