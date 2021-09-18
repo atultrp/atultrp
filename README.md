@@ -129,9 +129,7 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 ----------------------------------------------------------
 ### ❤️ Connect with me : <br/>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atultrp1/)
-[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/atultrp)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/atultrp)
 [![Dev To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/atultrp)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/atultrp)
 
-<!-- Gitlab : [atultrp](https://gitlab.com/atultrp)
-Dev Community : [atultrp](https://dev.to/atultrp) -->
