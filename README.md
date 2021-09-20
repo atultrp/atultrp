@@ -80,7 +80,7 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 
-#### 📊️ ML/DL:
+#### 📊️ Data Analysis:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -105,12 +105,17 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <div>
-<a>
+<a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=atultrp&show_icons=true&theme=radical" />
 </a>
+</div>
+<div>
+<a href="https://github.com/atultrp">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultrp&show_icons=true&theme=radical"">  
+</a>  
 </div>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact)](https://github.com/atultrp/github-readme-stats) -->
