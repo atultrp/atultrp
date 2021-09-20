@@ -104,6 +104,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## ✨ Stats
+
 <div>
 <a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact&show_icons=true&theme=radical" />
