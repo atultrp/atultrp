@@ -48,7 +48,8 @@
 - 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
 - 📫 How to reach me: <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 - 😎️ Take a look of my portfolio : <a href="https://atultrp.github.io/Personal-site/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=amp&logoColor=white"><a/>
-<!-- - 📝 [Resume]() -->
+- 📝 [Resume](https://github.com/atultrp/atultrp/files/7357002/Atul.Tripathi.Resume.pdf)
+
 
 ### 🛡️ Skills
 
