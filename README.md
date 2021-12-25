@@ -49,8 +49,8 @@
 ### ✨ Quick Facts
 
 <!-- - 👨🏽‍💻 I’m currently working working as a  -->
-- 🌱 I’m currently learning - Backend Development.
-- 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
+- 🌱 I’m currently sharping - Backend Development.
+- 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new tech stuffs, Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
 - 📫 How to reach me: <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 - 😎️ Take a look of my portfolio : <a href="https://atultrp.github.io/Personal-site/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=amp&logoColor=white"><a/>
 - 📝 My Resume : <a href="https://github.com/atultrp/atultrp/files/7357002/Atul.Tripathi.Resume.pdf"><img src="https://img.shields.io/badge/Atul Tripathi-6264A7?style=for-the-badge&logo=todoist&logoColor=white"></a>
@@ -145,4 +145,3 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/atultrp)
 [![Dev To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/atultrp)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/atultrp)
-
