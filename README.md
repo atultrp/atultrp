@@ -48,8 +48,8 @@
 
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently working working as a Frontend Developer Intern @ [Riskcovry](https://riskcovry.com/)
-- 🌱 I’m currently sharping - Backend Development.
+- 👨🏽‍💻 I’m currently working working as a Frontend Developer Intern at [Riskcovry](https://riskcovry.com/)
+- 🌱 I’m currently learning - Tailwind Css, Next.js.
 - 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new tech stuffs, Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
 - 📫 How to reach me: <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 - 😎️ Take a look of my portfolio : <a href="https://atultrp.github.io/Portfolio-atultrp/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=amp&logoColor=white"><a/>
