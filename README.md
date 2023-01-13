@@ -130,9 +130,9 @@
     <a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultrp&show_icons=true&theme=radical"">  
 </a> 
-<a href="https://github.com/atultrp">
+<!-- <a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atultrp&layout=compact&show_icons=true&theme=radical" />
-</a> 
+</a> -->
 </div>
 
 
