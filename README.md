@@ -31,12 +31,21 @@
 </div>
 
 
-### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) from New Delhi, India 🇮🇳️. 
+<!-- ### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) from New Delhi, India 🇮🇳️. 
 
 - My passion for software lies with dreaming up ideas 🤓️ and making them come true with elegant interfaces 👨‍💻️. I take great care in the experience, architecture, and code quality of the things I build.
 
-- I am also an open-source enthusiast 👐️ and maintainer. I learned a lot from the open-source community and I love ❤️ how collaboration and knowledge sharing happened through open-source 📃️.
+- I am also an open-source enthusiast 👐️ and maintainer. I learned a lot from the open-source community and I love ❤️ how collaboration and knowledge sharing happened through open-source 📃️. -->
 
+### I am a self-taught  ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) based in India, with a strong passion for software development.
+<!-- 
+- My focus is on designing elegant interfaces and bringing my ideas to life through code 🚀. I take great pride in the user experience, architecture, and code quality of everything I create.
+
+- In addition to my work as a developer, I am also an avid supporter of open source software. Through my experiences as a maintainer and contributor, I have gained a deep appreciation for the value of collaboration and knowledge sharing within the open-source community 📃️. -->
+
+- I'm passionate about exploring new technologies and keeping up-to-date with the latest trends in web development 🚀. I specialize in using ReactJS, JavaScript, Redux, and NextJS to create beautiful and functional interfaces.
+
+- In addition to my web development skills, I also have a keen eye for design and enjoy working with Adobe Illustrator to bring my ideas to life. When I'm not coding, you can find me exploring new tech stuffs and sharing my knowledge with the community😉️
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/wkSyGueYTnk40/giphy.gif" width=380px />
   
