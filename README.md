@@ -15,7 +15,7 @@
 
 
 <div align="center">
-<a href="https://discord.gg/uY9ADd8Rw5">
+<a href="[https://discord.gg/uY9ADd8Rw5](https://discord.gg/yETt2uvE)">
   <img alt="Atul's Discord" width="40px" hspace="5px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />
 </a>
 <a href="https://twitter.com/atultrp_">
