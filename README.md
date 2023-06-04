@@ -140,7 +140,7 @@
 <div>
     <a href="https://github.com/atultrp">
 <!--       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultrp&show_icons=true&theme=radical">   -->
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultrp&theme=dark&show_icons=true&theme=radical" >
+<!--       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultrp&theme=dark&show_icons=true&theme=radical" > -->
     </a> 
 <!-- <a href="https://github.com/atultrp">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atultrp&show_icons=true&theme=radical" />
