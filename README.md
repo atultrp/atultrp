@@ -39,7 +39,7 @@
 
 - I am also an open-source enthusiast 👐️ and maintainer. I learned a lot from the open-source community and I love ❤️ how collaboration and knowledge sharing happened through open-source 📃️. -->
 
-### I am a self-taught  ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) based in India, with a strong passion for software development.
+I am a self-taught![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) based in India, with a strong passion for software development.
 <!-- 
 - My focus is on designing elegant interfaces and bringing my ideas to life through code 🚀. I take great pride in the user experience, architecture, and code quality of everything I create.
 
