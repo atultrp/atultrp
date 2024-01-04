@@ -13,7 +13,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/69186169/222874044-bb6cea81-c421-491d-8afe-0c887d684e38.png" width="100%">
 
 
-
+<!--
 <div align="center">
 <a href="[https://discord.gg/uY9ADd8Rw5](https://discord.gg/yETt2uvE)">
   <img alt="Atul's Discord" width="40px" hspace="5px" src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" />
@@ -31,7 +31,7 @@
   <img alt="Atul Tripathi's Email" width="40px" hspace="5px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
 </a>
 </div>
-
+-->
 
 <!-- ### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) from New Delhi, India 🇮🇳️. 
 
