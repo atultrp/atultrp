@@ -35,7 +35,7 @@
 
 <!-- ### I'm a passionate self-taught ![Web Developer](https://img.shields.io/badge/Web-%20Developer-FF6C37?style=for-the-badge&logo=supabase&logoColor=white) 🚀 and ![Freelancer](https://img.shields.io/badge/Freelancer-EE3057?style=for-the-badge&logo=Freelancer&logoColor=white) from New Delhi, India 🇮🇳️. 
 
-- My passion for software lies with dreaming up ideas 🤓️ and making them come true with elegant interfaces 👨‍💻️. I take great care in the experience, architecture, and code quality of the things I build.
+- My passion for software lies in dreaming up ideas 🤓️ and making them come true with elegant interfaces 👨‍💻️. I take great care in the experience, architecture, and code quality of the things I build.
 
 - I am also an open-source enthusiast 👐️ and maintainer. I learned a lot from the open-source community and I love ❤️ how collaboration and knowledge sharing happened through open-source 📃️. -->
 
@@ -43,7 +43,7 @@ I am a self-taught![Web Developer](https://img.shields.io/badge/Web-%20Developer
 <!-- 
 - My focus is on designing elegant interfaces and bringing my ideas to life through code 🚀. I take great pride in the user experience, architecture, and code quality of everything I create.
 
-- In addition to my work as a developer, I am also an avid supporter of open source software. Through my experiences as a maintainer and contributor, I have gained a deep appreciation for the value of collaboration and knowledge sharing within the open-source community 📃️. -->
+- In addition to my work as a developer, I am also an avid supporter of open-source software. Through my experiences as a maintainer and contributor, I have gained a deep appreciation for the value of collaboration and knowledge sharing within the open-source community 📃️. -->
 
 - I'm passionate about exploring new technologies and keeping up-to-date with the latest trends in web development 🚀. I specialize in using ReactJS, JavaScript, Redux, and NextJS to create beautiful and functional interfaces.
 
@@ -60,8 +60,8 @@ I am a self-taught![Web Developer](https://img.shields.io/badge/Web-%20Developer
 ### ✨ Quick Facts
 
  - 👨🏽‍💻 I’m currently working working as a Frontend Developer at [![Riskcovry](https://img.shields.io/badge/Riskcovry-0052CC?style=for-the-badge)](https://riskcovry.com/)
-- 🌱 I’m currently learning - Tailwind Css, Next.js.
-- 🎿 Hobbies other than coding : Reading about Billionaires , Exploring new tech stuffs, Exploring new Places , Watching movies ( Only Hollywood 😉️ ).
+- 🌱 I’m currently learning - New tech stacks.
+- 🎿 Hobbies other than coding: Reading about Billionaires, Exploring new tech kinds of stuff, Exploring new Places, Watching movies ( Only Hollywood 😉️ ).
 - 📫 How to reach me: <a href="mailto:atul31815@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"><a/>
 - 😎️ Take a look of my portfolio : <a href="https://atultrp-pro.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00897B?style=for-the-badge&logo=amp&logoColor=white"><a/>
 - 📝 My Resume : <a href="https://github.com/atultrp/atultrp/files/12479712/Atul.Profile.Resume.pdf"><img src="https://img.shields.io/badge/Atul Tripathi-6264A7?style=for-the-badge&logo=todoist&logoColor=white]"></a>
@@ -167,6 +167,9 @@ _Since you don't want to leave my profile just yet! Here are some things you can
 ----------------------------------------------------------
 ### ❤️ Connect with me : <br/>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atultrp1/)
+[![Instagram](https://img.shields.io/badge/Instagram-FE0F7C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/atultrp)
+[![X](https://img.shields.io/badge/X.com-0A0A0A?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/atultrp_)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/atultrp)
 [![Dev To](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/atultrp)
 [![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/atultrp)
+
